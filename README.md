@@ -1,2 +1,3 @@
 # Fibonacci
-This program shows A Fibonacci Sequence starting from a user’s entered number, the approach used here is recursive.Have a look at the code:
+
+A recursive function is created which takes the user’s entered number as an argument and uses it for finding the next values.
